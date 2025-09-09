@@ -44,7 +44,7 @@ describe('Footer', () => {
     it('displays copyright information with current year', () => {
         render(<Footer />);
         expect(screen.getByText(/Copyright © 2025/)).toBeInTheDocument();
-        expect(screen.getByText(/Andrew Magill \| Developer/)).toBeInTheDocument();
+        expect(screen.getByText(/Taeyun Ryu \| Developer/)).toBeInTheDocument();
     });
 
     it('has correct styling', () => {

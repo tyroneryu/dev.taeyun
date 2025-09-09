@@ -11,3 +11,4 @@ export const settings = {
     siteThumb: '/images/logo.png',
     gtmId: 'GTM-T5LH2S23',
 };
+

@@ -4,7 +4,7 @@
 /** @type {import('next-sitemap').IConfig} */
 
 module.exports = {
-    siteUrl: process.env.SITE_URL || 'https://magill.dev',
+    siteUrl: process.env.SITE_URL || 'https://dev.taeyun.vercel.app',
     generateIndexSitemap: false,
     generateRobotsTxt: true,
     exclude: [
