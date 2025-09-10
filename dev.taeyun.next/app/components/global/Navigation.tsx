@@ -16,13 +16,13 @@ const Navigation: React.FC = () => {
                     <Link href='/projects'>Projects</Link>
                 </li>
                 <li>
-                    <Link href='/docs/andrew-magill-developer-resume.pdf'>Resume</Link>
+                    <Link href='/docs/taeyun-ryu-developer-resume.pdf'>Resume</Link>
                 </li>
                 <li>
-                    <Link href='//github.com/andymagill'>GitHub</Link>
+                    <Link href='//github.com/tyroneryu'>GitHub</Link>
                 </li>
                 <li>
-                    <Link href='//www.linkedin.com/in/andrew-magill'>LinkedIn</Link>
+                    <Link href='//www.linkedin.com/in/ryu-tyrone-3a2a36320'>LinkedIn</Link>
                 </li>
             </ul>
         </nav>

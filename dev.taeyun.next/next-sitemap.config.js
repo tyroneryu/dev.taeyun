@@ -4,6 +4,7 @@
 /** @type {import('next-sitemap').IConfig} */
 
 module.exports = {
+    // siteUrl: process.env.SITE_URL || 'https://dev.taeyun.vercel.app',
     siteUrl: process.env.SITE_URL || 'https://dev.taeyun.vercel.app',
     generateIndexSitemap: false,
     generateRobotsTxt: true,
